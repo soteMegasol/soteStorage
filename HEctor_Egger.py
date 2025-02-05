@@ -38,8 +38,8 @@ def addlabels(x,y, padding=10):
     for i in range(len(x)):
         plt.text(i, y[i]+padding,f'{y[i]:.1f}', ha='center')
 
-def tarefa2():
-    print("tarefa_2")
+def tarefa_4():
+    print("tarefa_4")
 
 
 def Monthly_Energy_per_Area():
